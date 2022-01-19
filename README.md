@@ -1,0 +1,3 @@
+- Hello, I’m @F4ntasbolic
+- I plan to follow computer science in college; still in HS
+- Currently learning C as an introduction to coding
